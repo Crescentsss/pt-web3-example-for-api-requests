@@ -1,6 +1,5 @@
   // const sessiontoken = "";
   // const bearer = "";
-  const playerId = "ac84ac7e-b01e-44fe-97a4-09fd51ceef25"
 
 
 document.querySelector("#kaydetBtn").addEventListener("click", () => {
